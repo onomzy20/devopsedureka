@@ -1,1 +1,1 @@
-new file for new branch
+learning the concept of conflicts
